@@ -622,3 +622,7 @@ const styles = StyleSheet.create({
 });
 
 Expo.registerRootComponent(PedometerSensor);
+
+
+
+//ScreenShots of our project: https://docs.google.com/presentation/d/13WeUDexk9ZH17XSn4Xy0LWkT6YGV7cb3sxwVFX8IIY8/edit?ts=5c25a9af#slide=id.p
